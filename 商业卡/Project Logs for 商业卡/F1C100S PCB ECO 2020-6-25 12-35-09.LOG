@@ -1,0 +1,13 @@
+Added Component: Designator=F1(0603r)
+Added Component: Designator=J1(HDR2X4)
+Added Pin To Net: NetName=USB_VBUS Pin=F1-1
+Added Pin To Net: NetName=UART_TX Pin=J1-1
+Added Pin To Net: NetName=SPI_CS Pin=J1-2
+Added Pin To Net: NetName=SPI_MISO Pin=J1-3
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=SPI_MOSI Pin=J1-6
+Added Pin To Net: NetName=SPI_CLK Pin=J1-7
+Added Pin To Net: NetName=UART_RX Pin=J1-8
+Added Member To Class: ClassName=Ê÷Ý®ÅÉF1C100S Member=Component F1 Fuse 1
+Added Member To Class: ClassName=Ê÷Ý®ÅÉF1C100S Member=Component J1 Header4*2

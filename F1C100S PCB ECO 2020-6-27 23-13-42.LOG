@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=SPI_CS Pin=U5-1
+Removed Pin From Net: NetName=SPI_MISO Pin=U5-2
+Removed Pin From Net: NetName=+3V3 Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Pin From Net: NetName=SPI_MOSI Pin=U5-5
+Removed Pin From Net: NetName=SPI_CLK Pin=U5-6
+Removed Pin From Net: NetName=+3V3 Pin=U5-7
+Removed Pin From Net: NetName=+3V3 Pin=U5-8
+Removed Member From Class: ClassName=Ê÷Ý®ÅÉF1C100S Member=U5
+Change Component Footprint: Designator=C1 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C2 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C3 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C4 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C5 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C6 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C7 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C8 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C9 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C10 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C11 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C12 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C13 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C14 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C15 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C16 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C17 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=C18 Old Footprint=0603C New Footprint=C0805
+Change Component Footprint: Designator=F1 Old Footprint=0603r New Footprint=PIN-W2/E2.8
+Change Component Footprint: Designator=R1 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R2 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R3 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R4 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R5 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R6 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R7 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R8 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R9 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R10 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R11 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=R12 Old Footprint=0603R New Footprint=R0805
+Change Component Footprint: Designator=L1 Old Footprint=0805R New Footprint=R0805
+Change Component Footprint: Designator=L2 Old Footprint=0805R New Footprint=R0805
+Change Component Footprint: Designator=L3 Old Footprint=0805R New Footprint=R0805
+Change Component Footprint: Designator=X1 Old Footprint=5032-4P New Footprint=5032_4P_24M
+Change Component Footprint: Designator=S1 Old Footprint=key-6s New Footprint=SPST-2
+Change Component Footprint: Designator=D1 Old Footprint=LED-0603 New Footprint=LED-0805
+Change Component Footprint: Designator=J2 Old Footprint=USB_MINIB_SMT New Footprint=USB_A
+Change Component Comment : Designator=S1 Old Comment=SW-Push New Comment=SW-PB
+Added Component: Designator=*(AT25SF081-SSHD-T)
+Added Pin To Net: NetName=SPI_CS Pin=*-1
+Added Pin To Net: NetName=SPI_MISO Pin=*-2
+Added Pin To Net: NetName=+3V3 Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=SPI_MOSI Pin=*-5
+Added Pin To Net: NetName=SPI_CLK Pin=*-6
+Added Pin To Net: NetName=+3V3 Pin=*-7
+Added Pin To Net: NetName=+3V3 Pin=*-8
+Added Member To Class: ClassName=Ê÷Ý®ÅÉF1C100S Member=Component * AT25SF081-SSHD-T
+Added Room: Name=Ê÷Ý®ÅÉF1C100S
