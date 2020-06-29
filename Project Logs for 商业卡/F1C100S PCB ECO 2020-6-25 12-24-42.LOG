@@ -1,6 +1,0 @@
-Added Component: Designator=X1(5032-4P)
-Added Pin To Net: NetName=NetC1_1 Pin=X1-1
-Added Pin To Net: NetName=GND Pin=X1-2
-Added Pin To Net: NetName=NetC2_1 Pin=X1-3
-Added Pin To Net: NetName=GND Pin=X1-4
-Added Member To Class: ClassName=Ê÷Ý®ÅÉF1C100S Member=Component X1 24MHz
