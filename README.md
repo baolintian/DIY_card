@@ -52,6 +52,14 @@
 
 ![](./fig/PCB_3D_B.png)
 
+## PCB板印制
+
+![PCB板正面](./fig/PCB_material_A.jpg)
+
+![PCB板背面](./fig/PCB_material_B.jpg)
+
+
+
 ## 其他
 
 B站上有一个很火的视频[【自制】技术宅UP耗时三个月，自制B站最强小电视！【极度硬核】【3分钟从草图到实物】](https://www.bilibili.com/video/BV1jE41137eu) 
